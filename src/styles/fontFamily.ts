@@ -1,5 +1,6 @@
 export const fontFamily = {
-  regular: "Roboto_400Regular",
-  bold: "Roboto_700Bold",
-  medium: "Roboto_500Medium",
+  light: "WorkSans_300Light",
+  regular: "WorkSans_400Regular",
+  medium: "WorkSans_500Medium",
+  boldw: "WorkSans_700Bold",
 }
